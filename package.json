@@ -1,0 +1,16 @@
+{
+  "name": "product-inventory-management",
+  "version": "1.0.0",
+  "description": "Minimal Product Inventory Management Web App using Node.js and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
